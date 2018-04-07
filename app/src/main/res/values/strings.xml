@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fortnite Memes</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9431740147700497/7053555522</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-9431740147700497/4441556825</string>
+    <string name="title_activity_network_gallery">NetworkGalleryActivity</string>
+    <string name="title_activity_sd_card_gallery">SdCardGalleryActivity</string>
+    <string name="link_zur_app">https://play.google.com/store/apps/details?id=info.fortniteempire.fortnitememes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

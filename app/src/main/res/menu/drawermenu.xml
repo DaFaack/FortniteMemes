@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginTop="10dp">
+
+
+
+
+    <item android:title="Share app"
+        android:id="@+id/teilen"
+        android:layout_marginTop="10dp"
+        android:icon="@drawable/shareimg" />
+
+
+    <item android:title="Rate app"
+        android:id="@+id/rate"
+        android:icon="@drawable/rate" />
+
+
+    <item android:title="More from us">
+        <menu>
+            <item
+                android:id="@+id/ninjasoundboard"
+                android:icon="@drawable/ninjas"
+                android:title="Ninja Soundboard"/>
+
+            <item
+                android:id="@+id/mythsoundboard"
+                android:icon="@drawable/myth"
+                android:title="Myth Soundboard"/>
+
+            <item
+                android:id="@+id/challenges"
+                android:icon="@drawable/challenges"
+                android:title="Fortnite Challenges"/>
+
+            <item
+                android:id="@+id/chestmap"
+                android:icon="@drawable/chestmap"
+                android:title="Fortnite Chest Map"/>
+
+
+            <item
+                android:id="@+id/soundboard"
+                android:icon="@drawable/fortnitesoundboard"
+                android:title="Fortnite Soundboard"/>
+
+
+
+            <item
+                android:id="@+id/gtp"
+                android:icon="@drawable/gtp"
+                android:title="Fortnite Guess the Picture"/>
+
+
+
+        </menu>
+    </item>
+
+
+    <item android:title="Contact">
+        <menu>
+            <item
+                android:id="@+id/instagram"
+                android:icon="@drawable/instaicon"
+                android:title="Instagram" />
+            <item
+                android:id="@+id/email"
+                android:icon="@drawable/email"
+                android:title="E-Mail" />
+
+
+
+        </menu>
+    </item>
+
+</menu>
